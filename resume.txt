@@ -1,0 +1,69 @@
+<div>-----
+    <p class="heading">Objective</p>
+    <div class="entry">
+    <p>Dedicated full stack developer seeking the Front-end Developer position, where I may be able to provide creative and effective solutions to a team of developers using my deep knowledge and proficiency in front-end tools and languages. I am very passionate about all projects I am assigned and have a high tenacity to see them through to completion.</p>
+    </div>
+    <p class="heading">Experience</p>
+    <div class="entry">
+        <p><a href="http://csm.cc/" target="_blank">Creative Sites Media</a></p>
+        <p><a href="https://csm.cc/staff-profile?id=14" target="_blank">Web Application Developer</a> | June 2018 - now</p>
+        <p>- Responsible for creative full-stack development of client sites as well as UI and UX design/implementation. </p>
+        <p>- Building out sites based on the design team’s mockups, while integrating the in-house CMS.</p>
+        <p>- Pivoting between multiple projects managing and making updates.</p>
+        <p>- Languages used on a daily basis: PHP, HTML, CSS, Javascript, Vue, mySQL.</p>
+        <p>- Common libraries worked with: JQuery, Bootstrap, Vuetify</p>
+    </div>
+    <div class="entry">
+        <p><a href="http://csm.cc/" target="_blank">Creative Sites Media</a></p>
+        <p>Team Developer Intern | March 2018 - June 2018</p>
+        <p>- Maintaining and adding features to custom built websites using PHPStorm and PHPmyAdmin for major companies and organizations in the Bloomington/Normal area.</p>
+    </div>
+    <div class="entry">
+        <p><a href="https://it.illinoisstate.edu/" target="_blank">ISU Department of IT</a></p>
+        <p>Program Debugger and Lab Assistant | January 2018 - May 2018</p>
+        <p>- Providing one-on-one program debugging assistance.</p>
+    </div>
+    <div class="entry">
+        <p><a href="https://it.illinoisstate.edu/" target="_blank">ISU Department of IT</a></p>
+        <p>Research Assistant | August 2017 - May 2018</p>
+        <p>- Collaborating with an IT professor to develop virtual reality simulations for a physician using Unity (scripts written in C#).</p>
+    </div>
+    <div class="entry">
+        <p><a href="https://goredbirds.com/index.aspx" target="_blank">Redbird Productions</a></p>
+        <p>Video Productions Intern | August 2016 - May 2017</p>
+        <p>- Positions: director, replay, audio, graphics, video playback, cameras, utilities, board op.</p>
+    </div>
+    <div class="entry">
+        <p><a href="https://www.lowes.com/" target="_blank">Lowes Home Improvement</a></p>
+        <p>Customer Service | May 2014 - January 2015</p>
+        <p>- Assisted customers with locating, carrying, and loading merchandise.  Also working heavy machinery.</p>
+    </div>
+
+    <p class="heading">Education</p>
+    
+    <div class="entry">
+        <p><a href="https://it.illinoisstate.edu/" target="_blank">School of Information Technology</a></p>
+        <p>Illinois State University | c/o 2018</p>
+        <p>- Computer Science major</p>
+        <p>- Treasurer of <a href="https://www.aitp.org/" target="_blank">AITP</a>(Association of IT Professionals), Co-leader of Application Development club and Game Development club, finalist in the 2017 MAD Contest (ISU Statefarm sponsored Application Development contest) and won first in the 2018 MAD Contest.</p>
+    </div> 
+    <div class="entry">
+        <p><a href="https://www.harpercollege.edu/academics/stem/computer-science/index.php" target="_blank">William Rainey Harper College</a> | c/o 2016</p>
+        <p>- Associates Degree in Applied Science and Technology</p>
+    </div>
+    
+    <p class="heading">Skills</p>
+    
+    <div class="entry">
+        <p>- Web dev: server and client-side scripting using the PHPStorm IDE</p>
+        <p>- App dev: Android Studio and Ionic Framework</p>
+        <p>- Experience with RESTful APIs, C++, C#, Java, Javascript, PHP, Vue, Jquery, mySQL, HTML, CSS, SASS, Angular, Typescript</p>
+        <p>- Currently learning React</p>
+        <p>- Ability to own and pivot between multiple projects in a given day</p>
+        <p>- Well versed in front end development tools and standards of responsive views</p>
+    </div>
+    -----
+    <a href="assets/Deans_resume_3-2023.pages" download="Deans_resume">
+        <p>Download Resume</p>
+    </a>
+</div>

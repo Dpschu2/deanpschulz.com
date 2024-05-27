@@ -1,0 +1,127 @@
+<p class="command-list">Command list</p>
+<div class="table-flex">
+    <div class="table-container first">
+        <table class="table1">
+            <tr>
+                <td class="highlight" style="width: 120px">bio</td>
+                <td>read up on my background</td>
+            </tr>
+            <tr>
+                <td class="highlight">portfolio</td>
+                <td>check out the work I've done</td>
+            </tr>
+            <tr>
+                <td class="highlight">resume</td>
+                <td>see where I've worked</td>
+            </tr>
+            <tr>
+                <td class="highlight">contact</td>
+                <td>talk to me!</td>
+            </tr>
+            <tr>
+                <td class="highlight">refs</td>
+                <td>references</td>
+            </tr>
+            <tr>
+                <td class="highlight">switch</td>
+                <td>open my other site</td>
+            </tr>
+            <tr>
+                <td class="highlight">help</td>
+                <td>list of available commands</td>
+            </tr>
+        </table>
+    </div>
+    <div class="table-container">
+        <table class="table2">
+            <tr>
+                <td class="highlight">portal</td>
+                <td>background music</td>
+            </tr>
+            <tr>
+                <td class="highlight">mario</td>
+                <td>background music</td>
+            </tr>
+            <tr>
+                <td class="highlight">clocks</td>
+                <td>background music</td>
+            </tr>
+            <tr>
+                <td class="highlight">pause</td>
+                <td>pause audio</td>
+            </tr>
+            <tr>
+                <td class="highlight">lists</td>
+                <td>favorites lists</td>
+            </tr>
+            <tr>
+                <td class="highlight">matrix</td>
+                <td>*take red pill*</td>
+            </tr>
+            <tr>
+                <td class="highlight">clear</td>
+                <td>clear terminal</td>
+            </tr>
+        </table>
+    </div>
+    <div class="table-container first table-container-responsive">
+        <table class="table1">
+            <tr>
+                <td class="highlight" style="width: 120px">bio</td>
+                <td>read up on my background</td>
+            </tr>
+            <tr>
+                <td class="highlight">portfolio</td>
+                <td>check out the work I've done</td>
+            </tr>
+            <tr>
+                <td class="highlight">resume</td>
+                <td>see where I've worked</td>
+            </tr>
+            <tr>
+                <td class="highlight">contact</td>
+                <td>talk to me!</td>
+            </tr>
+            <tr>
+                <td class="highlight">refs</td>
+                <td>references</td>
+            </tr>
+            <tr>
+                <td class="highlight">switch</td>
+                <td>open my more front end site</td>
+            </tr>
+            <tr>
+                <td class="highlight">help</td>
+                <td>list of available commands</td>
+            </tr>
+            <tr>
+                <td class="highlight">portal</td>
+                <td>background music</td>
+            </tr>
+            <tr>
+                <td class="highlight">mario</td>
+                <td>background music</td>
+            </tr>
+            <tr>
+                <td class="highlight">clocks</td>
+                <td>background music</td>
+            </tr>
+            <tr>
+                <td class="highlight">pause</td>
+                <td>pause audio</td>
+            </tr>
+            <tr>
+                <td class="highlight">lists</td>
+                <td>favorites lists</td>
+            </tr>
+            <tr>
+                <td class="highlight">matrix</td>
+                <td>*take red pill*</td>
+            </tr>
+            <tr>
+                <td class="highlight">clear</td>
+                <td>clear terminal</td>
+            </tr>
+        </table>
+    </div>
+</div>

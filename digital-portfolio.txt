@@ -1,0 +1,425 @@
+<h2>Americaneagle.com</h2>
+<div style="overflow: auto;max-width: 1150px;">
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">Millenium Surgical</p>
+        </div>
+        <div class="projimg" style='background: darkgreen;'>
+            <div class="projHover"></div>
+            <a href="https://www.surgicalinstruments.com/" target="_blank"><img class="reveal" src="assets/images/small/millenium.png">
+            </a>
+        </div>
+    </div>
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">Zalatimo Sweets</p>
+        </div>
+        <div class="projimg" style='background: darkgreen;'>
+            <div class="projHover"></div>
+            <a href="https://zalatimosweets.com/" target="_blank"><img class="reveal" src="assets/images/small/zalatimo.png">
+            </a>
+        </div>
+    </div>
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">Freedom Munitions</p>
+        </div>
+        <div class="projimg" style='background: darkgreen;'>
+            <div class="projHover"></div>
+            <a href="https://www.freedommunitions.com/" target="_blank"><img class="reveal" src="assets/images/small/freedom.png">
+            </a>
+        </div>
+    </div>
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">Denimcratic</p>
+        </div>
+        <div class="projimg" style='background: darkgreen;'>
+            <div class="projHover"></div>
+            <a href="https://denimcratic.com/pages/custom-swag-inquiries" target="_blank"><img class="reveal" src="assets/images/small/denim.png">
+            </a>
+        </div>
+    </div>
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">Red Apple Firework</p>
+        </div>
+        <div class="projimg" style='background: darkgreen;'>
+            <div class="projHover"></div>
+            <a href="/" target="_blank"><img class="reveal" src="assets/images/small/redapple.png">
+            </a>
+        </div>
+    </div>
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">American Swiss Foundation</p>
+        </div>
+        <div class="projimg" style='background: darkgreen;'>
+            <div class="projHover"></div>
+            <a href="/" target="_blank"><img class="reveal" src="assets/images/small/amswiss.png">
+            </a>
+        </div>
+    </div>
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">Garon</p>
+        </div>
+        <div class="projimg" style='background: darkgreen;'>
+            <div class="projHover"></div>
+            <a href="https://www.garonproducts.com/" target="_blank"><img class="reveal" src="assets/images/small/garon.png">
+            </a>
+        </div>
+    </div>
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">Handprint</p>
+        </div>
+        <div class="projimg" style='background: darkgreen;'>
+            <div class="projHover"></div>
+            <a href="/" target="_blank"><img class="reveal" src="assets/images/small/handprint.png">
+            </a>
+        </div>
+    </div>
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">DUROGreen</p>
+        </div>
+        <div class="projimg" style='background: darkgreen;'>
+            <div class="projHover"></div>
+            <a href="/" target="_blank"><img class="reveal" src="assets/images/small/tangent2.png">
+            </a>
+        </div>
+    </div>
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">DMG Mori</p>
+        </div>
+        <div class="projimg" style='background: darkgreen;'>
+            <div class="projHover"></div>
+            <a href="https://shop-us.dmgmori.com/" disabled target="_blank"><img class="reveal" src="assets/images/small/dmg.png">
+            </a>
+        </div>
+    </div>
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">Coffee Masters</p>
+        </div>
+        <div class="projimg" style='background: darkgreen;'>
+            <div class="projHover"></div>
+            <a href="https://www.coffeemasters.com/" disabled target="_blank"><img class="reveal" src="assets/images/small/coffee.png">
+            </a>
+        </div>
+    </div>
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">Sunreed</p>
+        </div>
+        <div class="projimg">
+            <div class="projHover"></div>
+            <a href="https://sunreed.com/" target="_blank"><img class="reveal" src="assets/images/small/sunreed.png">
+            </a>
+        </div>
+    </div>
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">Watco</p>
+        </div>
+        <div class="projimg">
+            <div class="projHover"></div>
+            <a href="https://www.watcofloors.com/" target="_blank"><img class="reveal" src="assets/images/small/watco.png">
+            </a>
+        </div>
+    </div>
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">Sabre</p>
+        </div>
+        <div class="projimg">
+            <div class="projHover"></div>
+            <a href="https://www.sabrered.com/" target="_blank"><img class="reveal" src="assets/images/small/sabre.png">
+            </a>
+        </div>
+    </div>
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">Packit Gourmet</p>
+        </div>
+        <div class="projimg">
+            <div class="projHover"></div>
+            <a href="https://www.packitgourmet.com/" target="_blank"><img class="reveal" src="assets/images/small/packit-sm.png">
+            </a>
+        </div>
+    </div>
+    
+
+</div>
+<h2>Creative Sites Media</h2>
+<div style="overflow: auto;max-width: 1150px;">
+
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">VectorVision(front end)</p>
+        </div>
+        <div class="projimg">
+            <div class="projHover"></div>
+            <a href="https://deanpschulz.com" target="_blank"><img class="reveal" src="assets/images/small/vector.png">
+            </a>
+        </div>
+    </div>
+    
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">God's Greater Grace(redesign)</p>
+        </div>
+        <div class="projimg">
+            <div class="projHover"></div>
+            <a href="https://godsgreatergrace.com/" target="_blank"><img class="reveal" src="assets/images/small/ggg.png">
+            </a>
+        </div>
+    </div>
+    
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">Creative Sites Media(redesign)</p>
+        </div>
+        <div class="projimg">
+            <div class="projHover"></div>
+            <a href="https://csm.cc" target="_blank"><img class="reveal" src="assets/images/small/csm.png">
+            </a>
+        </div>
+    </div>
+    
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">Lake of the Ozarks</p>
+        </div>
+        <div class="projimg">
+        <div class="projHover"></div>
+            <a href="http://ozarks.mcdemo.biz" target="_blank"><img class="reveal" src="assets/images/small/loto.png">
+            </a>
+        </div>
+    </div>
+    
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">Culbertson Memorial Hospital</p>
+        </div>
+        <div class="projimg">
+        <div class="projHover"></div>
+            <a href="https://cmhospital.com/" target="_blank"><img class="reveal" src="assets/images/small/culbertson.png">
+            </a>
+        </div>
+    </div>
+    
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">Advanced Agrilytics</p>
+        </div>
+        <div class="projimg">
+        <div class="projHover"></div>
+            <a href="https://advancedagrilytics.com/" target="_blank"><img class="reveal" src="assets/images/small/advancedagrilytics.png">
+            </a>
+        </div>
+    </div>
+    
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">Ag Ingenuity</p>
+        </div>
+        <div class="projimg">
+        <div class="projHover"></div>
+            <a href="https://agingenuity.com/" target="_blank"><img class="reveal" src="assets/images/small/agingenuity.png">
+            </a>
+        </div>
+    </div>
+    
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">Precision Products redesign(front end)</p>
+        </div>
+        <div class="projimg">
+            <div class="projHover"></div>
+            <a href="https://csm.cc/precision-planting-cloud" target="_blank"><img class="reveal" src="assets/images/small/pp.png">
+            </a>
+        </div>
+    </div>
+    
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">PDC Area</p>
+        </div>
+        <div class="projimg">
+        <div class="projHover"></div>
+            <a href="http://pdcarea.com" target="_blank"><img class="reveal" src="assets/images/small/pdcarea.png">
+            </a>
+        </div>
+    </div>
+    
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">Galesburg CVB</p>
+        </div>
+        <div class="projimg">
+        <div class="projHover"></div>
+            <a href="https://experiencegalesburg.com/" target="_blank"><img class="reveal" src="assets/images/small/galesburg.png">
+            </a>
+        </div>
+    </div>
+    
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">Champaign CVB</p>
+        </div>
+        <div class="projimg">
+        <div class="projHover"></div>
+            <a href="http://visitchampaigncounty.org/" target="_blank"><img class="reveal" src="assets/images/small/visitchampaign.png">
+            </a>
+        </div>
+    </div>
+    
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">Black Dirt Music</p>
+        </div>
+        <div class="projimg">
+        <div class="projHover"></div>
+            <a href="http://blackdirtmusic.com" target="_blank"><img class="reveal" src="assets/images/small/black-dirt.png">
+            </a>
+        </div>
+    </div>
+    
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">Panaloha</p>
+        </div>
+        <div class="projimg">
+        <div class="projHover"></div>
+            <a href="http://panaloha.com/" target="_blank"><img class="reveal" src="assets/images/small/panaloha.png">
+            </a>
+        </div>
+    </div>
+    
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">DocketCat</p>
+        </div>
+        <div class="projimg">
+        <div class="projHover"></div>
+            <a href="https://www.docketcat.com/" target="_blank"><img class="reveal" src="assets/images/small/docket.png">
+            </a>
+        </div>
+    </div>
+    
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">Hometown Title, Inc.</p>
+        </div>
+        <div class="projimg">
+        <div class="projHover"></div>
+            <a href="https://hometowntitleinc.com/" target="_blank"><img class="reveal" src="assets/images/small/hometown.png">
+            </a>
+        </div>
+    </div>
+    
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">Transitions Hospice</p>
+        </div>
+        <div class="projimg">
+        <div class="projHover"></div>
+            <a href="http://demo.csm.cc/" target="_blank"><img class="reveal" src="assets/images/small/transition.png">
+            </a>
+        </div>
+    </div>
+    
+</div>
+<h2>MISC</h2>
+<div style="overflow: auto;max-width: 1150px;">
+
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">EZBar(react native) <a target="_blank" href="https://apps.apple.com/us/app/ezbar/id1661654745">ios</a>/<a target="_blank" href="https://play.google.com/store/apps/details?id=com.schulzdean4.EZBar">android</a></p>
+        </div>
+        <div class="projimg">
+        <div class="projHover"></div>
+            <a href="https://apps.apple.com/us/app/ezbar/id1661654745" target="_blank">
+                <img class="reveal" src="assets/images/small/ezbar.png" />
+            </a>
+        </div>
+    </div>
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">Github</p>
+        </div>
+        <div class="projimg">
+        <div class="projHover"></div>
+            <a href="https://github.com/Dpschu2?tab=repositories" target="_blank"><img class="reveal" src="assets/images/small/github2.png">
+            </a>
+        </div>
+    </div>
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">BrainBet</p>
+        </div>
+        <div class="projimg">
+        <div class="projHover"></div>
+            <a href="https://www.youtube.com/watch?v=t7C3LselDP4&list=FLHlAJp2KoM4vTdMVyjLp7Ng&index=12" target="_blank"><img class="reveal" src="assets/images/small/cover.jpg">
+            </a>
+        </div>
+    </div>
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">Class Time</p>
+        </div>
+        <div class="projimg">
+        <div class="projHover"></div>
+            <a href="https://www.youtube.com/watch?v=30NLmjaCLn0" target="_blank"><img class="reveal" src="assets/images/small/cover2.jpg">
+            </a>
+        </div>
+    </div>
+    
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">Wordle</p>
+        </div>
+        <div class="projimg">
+        <div class="projHover"></div>
+            <a href="http://schulzdean.com/Wordle" target="_blank"><img style='max-height: 170px;object-fit: cover;' class="reveal" src="assets/images/small/wordle.png">
+            </a>
+        </div>
+    </div>  
+    
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">schulzdean.com</p>
+        </div>
+        <div class="projimg">
+        <div class="projHover"></div>
+            <a href="http://schulzdean.com/" target="_blank"><img style='object-fit: cover;' class="reveal" src="assets/images/small/frontSite.png">
+            </a>
+        </div>
+    </div>
+    
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">deanpschulz.com(front end)</p>
+        </div>
+        <div class="projimg">
+        <div class="projHover"></div>
+            <a href="http://deanpschulz.com/" target="_blank"><img style='object-fit: cover;' class="reveal" src="assets/images/small/matrix-bg.png">
+            </a>
+        </div>
+    </div>
+    
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">Friend's Personal Resume Site</p>
+        </div>
+        <div class="projimg">
+            <div class="projHover"></div>
+            <a href="http://jianpaolo.com" target="_blank"><img class="reveal" src="assets/images/small/jian.png">
+            </a>
+        </div>
+    </div>
+
+</div>

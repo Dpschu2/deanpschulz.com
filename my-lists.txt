@@ -1,0 +1,165 @@
+<div style="overflow: auto;" class='lists-div'>
+<div class="lists-container">
+    
+    <div>
+    <div class="list-container">
+        <p class="command-list">Music Artists</p>
+        <div class="list-border">
+            <div class="list-solid">
+                <p>Linkin Park</p>
+                <p>Coldplay</p>
+                <p>Blink 182</p>
+                <p>Avril Lavigne</p>
+                <p>Sum 41</p>
+                <p>Moby</p>
+                <p>Jack Johnson</p>
+                <p>Jason Mraz</p>
+                <p>Less Than Jake</p>
+                <p>Gorillaz</p>
+                <p>Weezer</p>
+                <p>Foo Fighters</p>
+                <p>Third Eye Blind</p>
+                <p>Yellowcard</p>
+                <p>Red Hot Chilli Peppers</p>
+                <p>Pearl Jam</p>
+                <p>Everclear</p>
+                <p>Sugar Ray</p>
+                <p>Ben Kweller</p>
+                <p>Nickelback</p>
+                <p>The Cure</p>
+                <p>Nirvana</p>
+                <p>Ramones</p>
+                <p>James Horner</p>
+                <p>Danny Elfman</p>
+                <p>bt</p>
+                <p>Slowdive</p>
+                <p>Rezz</p>
+                <p>Jantsen</p>
+            </div>
+        </div>
+    </div>
+    </div>
+    
+    <div class='list-right-container'>
+    
+    <div class="list-container">
+        <p class="command-list">Songs</p>
+        <div class="list-border">
+            <div class="list-solid">
+                <p><b>Clocks</b> by Coldplay</p>
+                <p><b>Just Like Heaven</b> by The Cure</p>
+                <p><b>Beautiful Day</b> by U2</p>
+                <p><b>One Last Wish</b> by James Horner</p>
+                <p><b>Mobile</b> by Avril Lavigne</p>
+                <p><b>Faint</b> by Linkin Park</p>
+                <p><b>Amazing</b> by Josh Kelley</p>
+                <p><b>Fatlip</b> by Sum 41</p>
+                <p><b>Mutt</b> by Blink-182</p>
+                <p><b>Bonzo Goes To Bitburg</b> by Ramones</p>
+                <p><b>Simple and Clean</b> by Hikaru Utada</p>
+                <p><b>A Million Dreams</b> by Ziv Zaifman</p>
+                <p><b>Wildest Dreams</b> by Taylor Swift</p>
+                <p><b>All Apologies</b> by Nirvana</p>
+            </div>
+        </div>
+    </div>
+    
+    <div class="list-container">
+        <p class="command-list">Movies</p>
+        <div class="list-border">
+            <div class="list-solid">
+                <p>The Matrix(1999)</p>
+                <p>Chasing Mavericks(2012)</p>
+                <p>It's Kind of a Funny Story(2010)</p>
+                <p>Pirates of the Caribbean(2003)</p>
+                <p>August Rush(2007)</p>
+                <p>Loser(2000)</p>
+                <p>Casper(1995)</p>
+                <p>Johnny Tsunami(1999)</p>
+                <p>Treasure Planet(2002)</p>
+                <p>Jack Frost(1998)</p>
+                <p>Phantom of the Opera(2004)</p>
+                <p>The Nightmare Before Christmas(1993)</p>
+                <p>Edward Scissorhands(1990)</p>
+                <p>AI: Artificial Intelligence(2001)</p>
+                <p>It's a Wonderful Life(1946)</p>
+            </div>
+        </div>
+    </div>
+    
+    <div class="list-container">
+        <p class="command-list">TV Shows</p>
+        <div class="list-border">
+            <div class="list-solid">
+                <p>Malcolm in the Middle</p>
+                <p>Boy Meets World</p>
+                <p>New Girl</p>
+                <p>The Office</p>
+                <p>Smallville</p>
+                <p>Avatar: The Last Airbender</p>
+                <p>Friends</p>
+                <p>Dragon Ball Z</p>
+                <p>South Park</p>
+                <p>Rocket Power</p>
+                <p>Futurama</p>
+                <p>Brooklyn Nine-Nine</p>
+            </div>
+        </div>
+    </div>
+    
+    <div class="list-container">
+        <p class="command-list">Sports/Hobbies</p>
+        <div class="list-border">
+            <div class="list-solid">
+                <p>Powerlifting</p>
+                <p>Snowboarding</p>
+                <p>Skateboarding</p>
+                <p>Golf</p>
+                <p>Disc Golf</p>
+                <p>Soccer</p>
+            </div>
+        </div>
+    </div>
+    
+    <div class="list-container">
+        <p class="command-list">Video Games</p>
+        <div class="list-border">
+            <div class="list-solid">
+                <p>Kingdom Hearts(PS2)</p>
+                <p>Super Mario 64(N64)</p>
+                <p>Tenchu Z(Xbox 360)</p>
+                <p>Rocket League(PC)</p>
+                <p>NHL(Xbox One)</p>
+                <p>Enter the Matrix(PS2)</p>
+                <p>Little Nightmares</p>
+            </div>
+        </div>
+    </div>
+    
+    <div class="list-container">
+        <p class="command-list">Fun Facts</p>
+        <div class="list-border">
+            <div class="list-solid">
+                <p>Lived in Hawaii for 2 years</p>
+                <p>Solve a rubiks cube in about 50 seconds</p>
+                <p>Can do balisong tricks</p>
+                <p>Gym PRs: S-405 B-330 D-463</p>
+                <p>Can play guitar, ukulele, and piano</p>
+            </div>
+        </div>
+    </div>
+    
+    <div class="list-container">
+        <p class="command-list">Hole in Ones</p>
+        <div class="list-border">
+            <div class="list-solid">
+                <p>9/16/21|Riemer Reservoir|Hole 7 307ft|Latitude 64 Saint</p>
+                <p>6/5/22|Riemer Reservoir|Hole 14 257ft|Innova Firestorm</p>
+                <p>7/31/22|North Watertower Park, FL|Hole 2 258ft|Discraft Hades</p>
+            </div>
+        </div>
+    </div>
+    
+    </div>
+</div>
+</div>
