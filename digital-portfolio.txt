@@ -1,3 +1,102 @@
+<h2>Personal</h2>
+<div style="overflow: auto;max-width: 1150px;">
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">GrowWithYuuka</p>
+        </div>
+        <div class="projimg">
+        <div class="projHover"></div>
+            <a href="https://gwyuuka.com/" target="_blank">
+                <img class="reveal" src="assets/images/small/gwyuuka.png" />
+            </a>
+        </div>
+    </div>
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">EZBar(react native) <a target="_blank" href="https://apps.apple.com/us/app/ezbar/id1661654745">ios</a>/<a target="_blank" href="https://play.google.com/store/apps/details?id=com.schulzdean4.EZBar">android</a></p>
+        </div>
+        <div class="projimg">
+        <div class="projHover"></div>
+            <a href="https://apps.apple.com/us/app/ezbar/id1661654745" target="_blank">
+                <img class="reveal" src="assets/images/small/ezbar.png" />
+            </a>
+        </div>
+    </div>
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">Github</p>
+        </div>
+        <div class="projimg">
+        <div class="projHover"></div>
+            <a href="https://github.com/Dpschu2?tab=repositories" target="_blank"><img class="reveal" src="assets/images/small/github2.png">
+            </a>
+        </div>
+    </div>
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">BrainBet</p>
+        </div>
+        <div class="projimg">
+        <div class="projHover"></div>
+            <a href="https://www.youtube.com/watch?v=t7C3LselDP4&list=FLHlAJp2KoM4vTdMVyjLp7Ng&index=12" target="_blank"><img class="reveal" src="assets/images/small/cover.jpg">
+            </a>
+        </div>
+    </div>
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">Class Time</p>
+        </div>
+        <div class="projimg">
+        <div class="projHover"></div>
+            <a href="https://www.youtube.com/watch?v=30NLmjaCLn0" target="_blank"><img class="reveal" src="assets/images/small/cover2.jpg">
+            </a>
+        </div>
+    </div>
+    
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">Wordle</p>
+        </div>
+        <div class="projimg">
+        <div class="projHover"></div>
+            <a href="http://schulzdean.com/Wordle" target="_blank"><img style='max-height: 170px;object-fit: cover;' class="reveal" src="assets/images/small/wordle.png">
+            </a>
+        </div>
+    </div>  
+    
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">schulzdean.com</p>
+        </div>
+        <div class="projimg">
+        <div class="projHover"></div>
+            <a href="http://schulzdean.com/" target="_blank"><img style='object-fit: cover;' class="reveal" src="assets/images/small/frontSite.png">
+            </a>
+        </div>
+    </div>
+    
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">deanpschulz.com(front end)</p>
+        </div>
+        <div class="projimg">
+        <div class="projHover"></div>
+            <a href="http://deanpschulz.com/" target="_blank"><img style='object-fit: cover;' class="reveal" src="assets/images/small/matrix-bg.png">
+            </a>
+        </div>
+    </div>
+    
+    <div class="project">
+        <div class="project-title">
+            <p class="heading">Friend's Personal Resume Site</p>
+        </div>
+        <div class="projimg">
+            <div class="projHover"></div>
+            <a href="http://jianpaolo.com" target="_blank"><img class="reveal" src="assets/images/small/jian.png">
+            </a>
+        </div>
+    </div>
+</div>
 <h2>Americaneagle.com</h2>
 <div style="overflow: auto;max-width: 1150px;">
     <div class="project">
@@ -332,94 +431,4 @@
         </div>
     </div>
     
-</div>
-<h2>MISC</h2>
-<div style="overflow: auto;max-width: 1150px;">
-
-    <div class="project">
-        <div class="project-title">
-            <p class="heading">EZBar(react native) <a target="_blank" href="https://apps.apple.com/us/app/ezbar/id1661654745">ios</a>/<a target="_blank" href="https://play.google.com/store/apps/details?id=com.schulzdean4.EZBar">android</a></p>
-        </div>
-        <div class="projimg">
-        <div class="projHover"></div>
-            <a href="https://apps.apple.com/us/app/ezbar/id1661654745" target="_blank">
-                <img class="reveal" src="assets/images/small/ezbar.png" />
-            </a>
-        </div>
-    </div>
-    <div class="project">
-        <div class="project-title">
-            <p class="heading">Github</p>
-        </div>
-        <div class="projimg">
-        <div class="projHover"></div>
-            <a href="https://github.com/Dpschu2?tab=repositories" target="_blank"><img class="reveal" src="assets/images/small/github2.png">
-            </a>
-        </div>
-    </div>
-    <div class="project">
-        <div class="project-title">
-            <p class="heading">BrainBet</p>
-        </div>
-        <div class="projimg">
-        <div class="projHover"></div>
-            <a href="https://www.youtube.com/watch?v=t7C3LselDP4&list=FLHlAJp2KoM4vTdMVyjLp7Ng&index=12" target="_blank"><img class="reveal" src="assets/images/small/cover.jpg">
-            </a>
-        </div>
-    </div>
-    <div class="project">
-        <div class="project-title">
-            <p class="heading">Class Time</p>
-        </div>
-        <div class="projimg">
-        <div class="projHover"></div>
-            <a href="https://www.youtube.com/watch?v=30NLmjaCLn0" target="_blank"><img class="reveal" src="assets/images/small/cover2.jpg">
-            </a>
-        </div>
-    </div>
-    
-    <div class="project">
-        <div class="project-title">
-            <p class="heading">Wordle</p>
-        </div>
-        <div class="projimg">
-        <div class="projHover"></div>
-            <a href="http://schulzdean.com/Wordle" target="_blank"><img style='max-height: 170px;object-fit: cover;' class="reveal" src="assets/images/small/wordle.png">
-            </a>
-        </div>
-    </div>  
-    
-    <div class="project">
-        <div class="project-title">
-            <p class="heading">schulzdean.com</p>
-        </div>
-        <div class="projimg">
-        <div class="projHover"></div>
-            <a href="http://schulzdean.com/" target="_blank"><img style='object-fit: cover;' class="reveal" src="assets/images/small/frontSite.png">
-            </a>
-        </div>
-    </div>
-    
-    <div class="project">
-        <div class="project-title">
-            <p class="heading">deanpschulz.com(front end)</p>
-        </div>
-        <div class="projimg">
-        <div class="projHover"></div>
-            <a href="http://deanpschulz.com/" target="_blank"><img style='object-fit: cover;' class="reveal" src="assets/images/small/matrix-bg.png">
-            </a>
-        </div>
-    </div>
-    
-    <div class="project">
-        <div class="project-title">
-            <p class="heading">Friend's Personal Resume Site</p>
-        </div>
-        <div class="projimg">
-            <div class="projHover"></div>
-            <a href="http://jianpaolo.com" target="_blank"><img class="reveal" src="assets/images/small/jian.png">
-            </a>
-        </div>
-    </div>
-
 </div>
