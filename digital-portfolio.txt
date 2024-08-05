@@ -101,6 +101,16 @@
 <div style="overflow: auto;max-width: 1150px;">
     <div class="project">
         <div class="project-title">
+            <p class="heading">Blaupunkt eBikes</p>
+        </div>
+        <div class="projimg" style='background: darkgreen;'>
+            <div class="projHover"></div>
+            <a href="https://blue.bike/" target="_blank"><img class="reveal" src="assets/images/small/bp.png">
+            </a>
+        </div>
+    </div>
+    <div class="project">
+        <div class="project-title">
             <p class="heading">Millenium Surgical</p>
         </div>
         <div class="projimg" style='background: darkgreen;'>
