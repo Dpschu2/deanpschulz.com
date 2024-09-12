@@ -15,6 +15,6 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
         server: 107.180.37.105
-        username: ${{ secrets.FTP_USERNAME_DEAN }}
-        password: ${{ secrets.FTP_PASSWORD_DEAN }}
+        username: ${{ secrets.ftp_username }}
+        password: ${{ secrets.ftp_password }}
         server-dir: /deanpschulz.com/
