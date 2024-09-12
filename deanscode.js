@@ -383,7 +383,7 @@ function valid() {
                 this.play();
             }, false);
             dadAudio.play();
-            setTimeout(function () {
+            setTimeout(function () { 
                 var e;
                 (e = document.getElementById("input")).removeAttribute("id"), document.getElementById("typewriter").removeAttribute("id"), (e = document.getElementById("input")).insertAdjacentHTML("afterend", '<div id="input"></div>'), e.removeAttribute("id"), typeWriter(document.getElementById("typewriter") ? document.getElementById("typewriter").dataset.text : '', 0)
             }, 1200), setTimeout(function () {
