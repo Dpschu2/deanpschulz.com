@@ -20,6 +20,7 @@ myAudio.addEventListener('ended', function () {
 }, false);
 
 $(document).keydown(function (evt) {
+    console.log('keydown');
     $('#input input').focus();
     var keycode = evt.keyCode;
     var valid =
@@ -120,6 +121,7 @@ var hours, minutes, seconds, url, d = new Date(),
             if ($('#typewriter').length && $('#typewriter').html() == 'Hi! My name is Dean. I\'m a Front End Developer at <a href="http://americaneagle.com" target="_blank">Americaneagle.com</a>. Before we begin, what\'s your name?') {
                 $('.no-blink').removeClass('no-blink');
                 $('#first-directory').show();
+                console.log('focus 0');
                 $('#name-input').focus();
                 myAudio.addEventListener('ended', function () {
                     this.currentTime = 0;
@@ -128,8 +130,10 @@ var hours, minutes, seconds, url, d = new Date(),
                 myAudio.play();
                 clearInterval(interval);
                 setInterval(function () {
-                    if (!$('#input input').is(':focus'))
+                    if (!$('#input input').is(':focus')) {
+                        console.log('focus 1');
                         $('#input input').focus();
+                    }
                 }, 1000);
             }
         }, 400);
@@ -525,6 +529,7 @@ function newInput(cursorOnly) {
 function focusme() {
     var e = document.getElementById("current-p");
     e.focus(), e.onblur = function (event) {
+        console.log('blur focus');
         if (event.relatedTarget && !event.relatedTarget.localName == 'a')
             setTimeout(function () {
                 e.focus()
