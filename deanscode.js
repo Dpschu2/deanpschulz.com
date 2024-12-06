@@ -496,7 +496,7 @@ function setBody() {
             url = `mailto:schulzdean4@gmail.com?subject=${subject}&body=${e}`
     }, 1500)
 }
-
+ 
 function sendEmail() {
     document.getElementById("current-p").contentEditable = !1, "send" == document.getElementById("current-p").value.toLowerCase() && window.open(url, "_blank"), newInput(), current = ""
 }
