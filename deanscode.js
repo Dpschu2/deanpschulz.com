@@ -508,7 +508,7 @@ function invalid() {
         newInput();
     }, 1e3)
 }
-
+ 
 function newInput(cursorOnly) {
     $('input').replaceWith('<p class="p-add">' + $('input').val() + '</p>');
     // document.getElementById("input").insertAdjacentHTML('afterend', '<input autocomplete="off" id="current-p" spellcheck="false" class="active paragraph" contenteditable="true">');
